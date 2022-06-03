@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "angular-crash"
+  "defaultProject": "angular-crash",
+  "cli": {
+    "analytics": "e3f329c3-1dd6-4379-b7eb-69bf4eb7edcb"
+  }
 }
